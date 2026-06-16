@@ -1,0 +1,10 @@
+title       = "migu"
+baseURL     = "https://migu-cli.tamnd.com/"
+description = "Migu Music (咪咕音乐) from the terminal"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/migu-cli"
